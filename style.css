@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.half-width{
+    float: left;
+    width: 500px;
+    margin: 50px 80px;
+}
+section{
+    height: 500px;
+}
+.my-image{
+    width: 80%;
+}
+h1{
+    font-size: 50px;
+    color: salmon;
+}
+h2{
+    font-size: 50px;
+}
+p{
+    color: gray;
+    margin-bottom: 30px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: lightsalmon;
+    padding: 10px 30px;
+    border: 2px solid orange;
+}
+.button:hover{
+    color: black;
+    background-color: #fff;
+}
+.header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.bio{
+    font-size: 40px;
+}
+.biography{
+   background-image: url("images/biography-bg.png");
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.work{
+    width: 30%;
+    float: left;
+    text-align: center;
+   margin-left: 30px;
+}
+.latest{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.last-footer{
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+}
+.claint{
+    font-size: 40px;
+}
+h5{
+    color: gray;
+}
+.ceo p{
+    color: black;
+    margin: 50px 0;
+}
+.leave{
+    background-color: salmon;
+    
+    padding: 30px 30px;
+    margin-bottom: 30px;
+}
+.leave p{
+    color: #fff;
+}
+.leave a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+.hero p{
+    margin-top: 60px;
+}
+.footer-bg{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    
+}
